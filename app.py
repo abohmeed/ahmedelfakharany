@@ -1,5 +1,4 @@
 from jinja2 import Environment, FileSystemLoader
-import os
 import yaml
 
 # Set up Jinja2 environment
@@ -11,7 +10,7 @@ template = env.get_template("template.j2")
 grand_coupon = "LDINFEB2025"
 
 
-def generateLink(coupon_code, referral_code, course_link, use_grand_coupon=True):
+def generate_link(coupon_code, referral_code, course_link, use_grand_coupon=True):
     if coupon_code:
         return course_link + "/?couponCode=" + coupon_code
     elif grand_coupon and use_grand_coupon:
@@ -27,7 +26,7 @@ with open("courses.yaml", "r") as file:
 
 # Access the courses data
 for course in courses_data["courses"]:
-    course["link"] = generateLink(
+    course["link"] = generate_link(
         course["coupon_code"], course["referral_code"], course["course_link"]
     )
 
