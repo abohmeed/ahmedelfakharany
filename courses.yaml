@@ -1,0 +1,96 @@
+courses:
+- title: "Argo CD and GitOps on Kubernetes master class (Arabic)"
+  coupon_code: "5CEC27772578584C9096"
+  referral_code: ""
+  course_link: "https://www.udemy.com/course/argo-cd-and-gitops-on-kubernetes-master-class-arabic"
+  use_grand_coupon: false
+  image: images/argocd-arabic-discount.png
+  description: "Master GitOps with Argo CD: The Ultimate Kubernetes Guide to Continuous Delivery"
+
+- title: "Ansible for DevOps automation mastery (Arabic)"
+  coupon_code: ""
+  referral_code: "69CEC2321145FD8CE143"
+  course_link: "https://www.udemy.com/course/ansible-for-devops-automation-mastery-arabic"
+  use_grand_coupon: true
+  image: images/ansible.webp
+  description: "Master Automation with Ansible: From Beginner to Pro in DevOps"
+
+- title: "Kubernetes from Beginner to Master (Arabic)"
+  coupon_code: ""
+  referral_code: "0C74AF877A8202DC1C2A"
+  course_link: "https://www.udemy.com/course/kubernetes-from-beginner-to-master-arabic"
+  use_grand_coupon: true
+  image: images/kubernetes.webp
+  description: "Kubernetes master class for developers, sys admins, and aspiring DevOps engineers"
+
+- title: "Docker from zero to hero (Arabic)"
+  coupon_code: ""
+  referral_code: "2825B775B75A644A95A7"
+  course_link: "https://www.udemy.com/course/learn-docker-arabic"
+  use_grand_coupon: false
+  image: images/Docker.webp
+  description: "Docker mastery with real-world examples. Go from beginner to expert and advance your DevOps career"
+
+- title: "Flux CD Mastery: Automating Kubernetes with GitOps"
+  coupon_code: ""
+  referral_code: "BF949EAAAF1C1743D96E"
+  course_link: "https://www.udemy.com/course/flux-cd-mastery-automating-kubernetes-with-gitops"
+  use_grand_coupon: true
+  image: images/fluxcd.webp
+  description: "Accelerate Kubernetes Deployments & CI/CD with Flux CD: Harness GitOps Automation for Efficient Container Orchestration"
+
+- title: "Mastering GitOps with Argo CD"
+  coupon_code: ""
+  referral_code: "C822E2AFAD8D52459025"
+  course_link: "https://www.udemy.com/course/mastering-gitops-with-argo-cd"
+  use_grand_coupon: true
+  image: images/argocd.webp
+  description: "Argo CD and GitOps from zero to hero: Helm, Kustomize, ApplicationSets, Blue/Green, CI/CD, Plugins, Hooks and many more!"
+
+- title: "Secure Shell (SSH) essentials: a hands-on guide"
+  coupon_code: ""
+  referral_code: "3CF489AA202E793D0731"
+  course_link: "https://www.udemy.com/course/master-linux-administration-using-ssh"
+  use_grand_coupon: false
+  image: images/ssh.webp
+  description: "Master SSH, scp, sFTP, SSH tunnels, 2-factor auth, and secure your servers and network"
+
+- title: "Helm - The Kubernetes Package Manager hands-on course"
+  coupon_code: ""
+  referral_code: "C971341C68E1A7D87180"
+  course_link: "https://www.udemy.com/course/helm-the-kubernetes-package-manager-hands-on-course"
+  use_grand_coupon: true
+  image: images/helm.webp
+  description: "Complete Course on Helm and Gitlab Integration for Kubernetes Deployments"
+
+- title: "DevOps projects using Kubernetes: a hands-on guide"
+  coupon_code: "COUPON654"
+  referral_code: "REFERRAL654"
+  course_link: "https://www.udemy.com/course/devops-projects-using-kubernetes-a-hands-on-guide"
+  use_grand_coupon: false
+  image: images/devops.webp
+  description: "Master DevOps using Kubernetes on AWS using real-world scenarios. Move your skillset to the next level."
+
+- title: "Scrapy Unleashed: Master Python Web Scraping & Data Pipeline"
+  coupon_code: ""
+  referral_code: "1E20718C49DF9A68E452"
+  course_link: "https://www.udemy.com/course/scrapy-masterclass-python-web-scraping-and-data-pipelines"
+  use_grand_coupon: true
+  image: images/scrapy.webp
+  description: "Empower Your Data Skills: Learn to Build, Analyze, and Optimize Your Own Web Scrapers with Scrapy"
+
+- title: "SSL/TLS essentials: theory and implementation"
+  coupon_code: ""
+  referral_code: "C76EC801E20575622A9C"
+  course_link: "https://www.udemy.com/course/ssltls-essentials-theory-and-implementation"
+  use_grand_coupon: true
+  image: images/ssl.webp
+  description: "Master SSL/TLS hard parts, implement web security like a pro, and become your team's expert in HTTPS!"
+
+- title: "Markdown crash course with Obsidian, Hugo, and Ghost"
+  coupon_code: ""
+  referral_code: "74A6FA5E69CEF37A82AF"
+  course_link: "https://www.udemy.com/course/markdown-crash-course-with-obsidian-hugo-and-ghost"
+  use_grand_coupon: false
+  image: images/markdown.webp
+  description: "Master Markdown and apply your knowledge to Obsidian for note taking, Hugo and Ghost for website creation"
