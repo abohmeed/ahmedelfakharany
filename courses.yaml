@@ -1,5 +1,5 @@
-grand_coupon: "LDINFEB2025"
-grand_coupon_expiry: "15-02-2025"
+grand_coupon: "FAKHARANY2025"
+grand_coupon_expiry: "18-03-2025"
 
 courses:
 - title: "Argo CD and GitOps on Kubernetes master class (Arabic)"
@@ -7,7 +7,7 @@ courses:
   coupon_expiry: "25-02-2025"
   referral_code: "7818CB56AE17582FCFB8"
   course_link: "https://www.udemy.com/course/argo-cd-and-gitops-on-kubernetes-master-class-arabic"
-  use_grand_coupon: false
+  use_grand_coupon: true
   image: images/argocd-arabic-discount.png
   description: "Master GitOps with Argo CD: The Ultimate Kubernetes Guide to Continuous Delivery"
 
