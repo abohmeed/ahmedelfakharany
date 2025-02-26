@@ -8,7 +8,7 @@ courses:
   referral_code: "7818CB56AE17582FCFB8"
   course_link: "https://www.udemy.com/course/argo-cd-and-gitops-on-kubernetes-master-class-arabic"
   use_grand_coupon: true
-  image: images/argocd-arabic-discount.png
+  image: images/argocd-arabic.png
   description: "Master GitOps with Argo CD: The Ultimate Kubernetes Guide to Continuous Delivery"
 
 - title: "Ansible for DevOps automation mastery (Arabic)"
