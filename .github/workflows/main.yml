@@ -43,7 +43,7 @@ jobs:
           git diff-index --quiet HEAD || echo "changes=true" >> $GITHUB_ENV
   
       - name: Commit and Push Changes
-        if: env.changes == 'true'
+        if: ${{ env.changes == 'true' && github.event_name != 'push' }}
         run: |
           git commit -m "Daily update: $(date +'%Y-%m-%d %H:%M:%S')"
           git push
